@@ -73,16 +73,12 @@ See the full analysis in the <a href="C:\Users\ankys\Project1\Microsoft_Movie_An
 # Repository Structure
 
 ```
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
+├── Code
 │   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
-```
+├── Images
+├── zippedData
+├── .gitignore
+├── Microsoft_Movie_Analysis.ipynb
+├── Microsoft_Movie_Analysis_Presentation.pdf
+└── README.md
 ```
