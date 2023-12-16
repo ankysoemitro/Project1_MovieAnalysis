@@ -69,10 +69,6 @@ The analysis of the average rating to runtime indicates that as the movie durati
 # For More Information
 
 See the full analysis in the <a href="C:\Users\ankys\Project1_MovieAnalysis\Microsoft_Movie_Analysis.ipynb">Jupyter Notebook</a> or review this <a href="C:\Users\ankys\Project1_MovieAnalysis\Microsoft_Movie_Analysis_Presentation.pdf">presentation</a>.
-<<<<<<< HEAD
-
-=======
->>>>>>> 51efde72ff9db7a40fd554269f9a863b3aa13041
 
 # Repository Structure
 
