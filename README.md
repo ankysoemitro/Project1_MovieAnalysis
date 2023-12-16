@@ -26,18 +26,21 @@ This project uses descriptive analysis to gain insight into cinematic landscape,
 
 The analysis reveals a consistent trend over the years, indicating that movies falling under the Documentary, Drama, and Comedy genres are more frequently produced.
 
-![genreyear2.png](genreyear2.png)
+![genreyear2](https://github.com/ankysoemitro/Project1_MovieAnalysis/assets/152271063/c494798a-274f-4cba-9893-4dabafd5d17e)
+
 
 The analysis further uncovers a positive correlation between higher budgets and increased revenue, indicating that movies with larger budgets are more likely to achieve higher financial success. Notably, the three genres with the highest average revenue are Animation, Sci-Fi, and Adventure.
 
-![budgetrevenue.png](budgetrevenue.png)
+![budgetrevenue](https://github.com/ankysoemitro/Project1_MovieAnalysis/assets/152271063/10b652b8-72be-4853-9d97-a827a94ee1f5)
 
 
-![revenuegenre.png](revenuegenre.png)
+![revenuegenre](https://github.com/ankysoemitro/Project1_MovieAnalysis/assets/152271063/6c92d9cc-4d21-45ff-b7e3-0d95ddffc5eb)
+
 
 The analysis of the average rating to runtime indicates that as the movie duration increases, the ratings tend to decrease.
 
-![runtimerating.png](runtimerating.png)
+![runtimerating](https://github.com/ankysoemitro/Project1_MovieAnalysis/assets/152271063/98b78f7b-137f-4064-b7b7-802553b70039)
+
 
 ## Conclusions
 
